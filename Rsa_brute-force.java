@@ -10,7 +10,7 @@ import java.util.concurrent.*;
    Compile using: javac Rsa.java
    Run using: java Rsa [digit-length]
 */
-public class Rsa {
+public class Rsa_brute-force {
     static final BigInteger TWO = new BigInteger("2");
 
     public static void main (String [] args) {

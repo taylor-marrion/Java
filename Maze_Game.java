@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class HW6 {
+public class Maze_Game {
     private static final char WALL = '#';
     private static final char PATH = '.';
     private static final char PLAYER = '@';
