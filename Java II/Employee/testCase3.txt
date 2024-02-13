@@ -1,0 +1,6 @@
+2014 Executive Re,Signed 0 0
+2014 Salesman Re,Tired 0 0
+2014 Employee Laid,Off 0
+2015 Executive Rising,Up 25000 50
+2015 Salesman New,Guy 3750 150000
+2015 Employee Temp,Worker 2250

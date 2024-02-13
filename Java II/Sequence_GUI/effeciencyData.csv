@@ -1,0 +1,12 @@
+n, iterative effeciency, recursive effeciency
+0,0,1
+1,0,1
+2,0,1
+3,1,3
+4,2,5
+5,3,9
+6,4,15
+7,5,25
+8,6,41
+9,7,67
+10,8,109

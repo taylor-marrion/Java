@@ -1,0 +1,9 @@
+2014 Executive Priestly,Miranda 25000 125
+2015 Executive Burns,Montgomery 750000 300
+2014 Executive Bateman,Patrick 25000 51
+2015 Salesman Green,Cassius 10000 2000000
+2014 Salesman Callahan,Tommy 2500 0
+2015 Salesman Orlov,Yuri 50000 2500000
+2014 Employee Hicks,Dante 3500
+2015 Employee Gibbons,Peter 8000
+2014 Employee Linetti,Gina 4000
